@@ -5,13 +5,15 @@ SF!=S
 
 Snow Flake != S
 
+Programming Language Perfected
+
 Language Features:
 
 Every statement can be set to a “symbol”
 
 Every “symbol” is unique and globally accessible
 
-A “Copy” of a symbol is still its own unique symbol differential by the “copy” "dimensional ontological segregation uniquer", thus if an exact copy of a unique symbol need be made for programmatic convience sack, it is exact copy, but uniquly identifiable between it's original symbole and itself... thus changes which happen to the copy do not propograte to the “original's” dependencies tree under
+A “Copy” of a symbol is still its own unique symbol differential by the “copy” "dimensional ontological segregation uniquer", thus if an exact copy of a unique symbol need be made for programmatic convenience sack, it is exact copy, but uniquely identifiable between it's original symbol and itself... thus changes which happen to the copy do not propagate to the “original's” dependencies tree under
 
 No predefined memory chunk sizes
 
@@ -51,7 +53,7 @@ Limits on how much a particular unique concept shall be scaled up to allowed to 
 
 every single individual language "concept" (i.e. if, then, else, while, do, add, subtract, multiple, divide, store, retrieve, etc, etc, etc) will be represented as a unique symbol, decorated with unique blending of unique and isomorphicly consistent geometric symbol/shape/design/etc, uniquely identified color scheming (which will blend colors together with overlapping "concepts"), and unique transitional movement effects (like how an idle character in video games wavers back and forth and shows breathing etc,) transitional effects of the symbol are another "dimensional ontological segregation uniquer" idiom, 
 
-"dimensional ontological segregation uniquer" are functionally limitless, but pragrmatically or reality limited only by the amount of hardware memory space available to add additional uniquifing "attributes/features/dimensions/human sense abilities/external_or_internal auxiliary sensors i.e. mechanical thermal"
+"dimensional ontological segregation uniquer" are functionally limitless, but pragmatically or reality limited only by the amount of hardware memory space available to add additional uniquifing "attributes/features/dimensions/human sense abilities/external_or_internal auxiliary sensors i.e. mechanical thermal"
 
 The language “SF!=S” will inherently be design to automatically reverse engineer all “working/complete-ish” languages in existence, thus it will auto generate all transnational needs, hooks, modules, idioms, etc, which other languages are using and be able to interpret any program developed in “SF!=S” to any other program in existence... baring (“some language consistency test i.e. is the language turning complete.”).
  
@@ -61,5 +63,3 @@ The language will not look static, it will be a constant breathing activity of e
 The language will have a list of tests cases actively re-evaluating after every single new key stroke or functional interaction with the language. 
 
 In “SF!=S” DO NOT FORCE OLD PRACTICE WHICH DO NOT MAKE SENSE “old wine skins will burst from new wine while trying to be poured into them... and if you poor old wine into new wine skin you are wasting the new wine skin … POOR AND REAP THE NEW INTO AND OUT OF THE NEW!
-
-
