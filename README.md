@@ -10,7 +10,8 @@ Snowflake!=S						     nowflake!=S
 		  nowflake!=S		    nowflake!=S
 				   nowflake!=S
 
-Short form:                                                     
+Short form: 
+<pre>
        !=S         !=S   !=S                           !=S      
     !=S   !=S   !=S   !=S                           !=S   !=S   
 S!=S   !=S   !=S   !=S   !=S                    S!=S   !=S   !=S
@@ -24,7 +25,7 @@ S!=S              S!=S   !=S   !=S   !=S   !=S   !=S
 S!=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S
     !=S   !=S   !=S   !=S                           !=S   !=S   
        !=S         !=S   !=S                           !=S      
-
+</pre>
 Programming Language Perfected Through Retrospective Evolution.
 
 Language Features:
