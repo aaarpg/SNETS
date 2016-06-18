@@ -1,11 +1,31 @@
-# SFNETS
+# SNETS
 ## Programming Language Evolved
-Snow Flake != S (SFNETS) 
-SF!=S
+Snowflake!=Snowflake (SNETS) 
+S!=S
 
-Snow Flake != S
+The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
+ 
+Long form:
+Snowflake!=S						     nowflake!=S
+		  nowflake!=S		    nowflake!=S
+				   nowflake!=S
 
-Programming Language Perfected
+Short form:                                                     
+       !=S         !=S   !=S                           !=S      
+    !=S   !=S   !=S   !=S                           !=S   !=S   
+S!=S   !=S   !=S   !=S   !=S                    S!=S   !=S   !=S
+    !=S   !=S         !=S                           !=S   !=S   
+S!=S              S!=S   !=S   !=S   !=S   !=S   !=S            
+    !=S               !=S   !=S   !=S   !=S   !=S   !=S         
+       !=S        S!=S   !=S   !=S   !=S   !=S         !=S      
+          !=S         !=S                                 !=S   
+             !=S               !=S   !=S   !=S               !=S
+    !=S   !=S               !=S   !=S   !=S   !=S   !=S   !=S   
+S!=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S
+    !=S   !=S   !=S   !=S                           !=S   !=S   
+       !=S         !=S   !=S                           !=S      
+
+Programming Language Perfected Through Retrospective Evolution.
 
 Language Features:
 
@@ -63,3 +83,52 @@ The language will not look static, it will be a constant breathing activity of e
 The language will have a list of tests cases actively re-evaluating after every single new key stroke or functional interaction with the language. 
 
 In “SF!=S” DO NOT FORCE OLD PRACTICE WHICH DO NOT MAKE SENSE “old wine skins will burst from new wine while trying to be poured into them... and if you poor old wine into new wine skin you are wasting the new wine skin … POOR AND REAP THE NEW INTO AND OUT OF THE NEW!
+
+When new tools are created which enhance programming productivity then the structure of the “SF!=S” language will be re-evaluated and reformed to add in enhancing less friction for the new tools... A good example is going from no vertical highlighting tool, to having a vertical highlighting tool, in which case the organization of repetitive statements makes more sense to be in consistent spaced form:
+
+i.e. :
+
+before vertical highlighting tools: 
+(sort of harsh 'c' like code just for demonstration purposes)
+
+int a = 3;
+float pie = 3.14; int index += 0;
+string hello = “world\n”; 
+
+after vertical highlighting tools:
+
+int		a		 =	3		;
+float	pie		 =	3.14		;
+int		index	+=	0		;
+string	hello	 =	“world\n”	;
+
+“SF!=S”
+With vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
+
+A !$
+a = A
+
+Rosetta Stone or Key translation between 'C' <=> 'SF!=S'
+
+ _____________________
+|    C    <=>  SF!=S  |
+|_____________________|
+|   int   <=>    !    |
+|  float  <=>    @    |
+| string  <=>    #    |
+|   a     <=>    $    |
+|  pie    <=>    %    |
+| index   <=>    ^    |
+| hello   <=>    &    |
+|   =     <=>    =    |
+|  +=     <=>    +    |
+|   3     <=>    /    |
+|  3.14   <=>    ?    |
+|   0     <=>    >    |
+|“world\n”<=>    "    |
+|   ;     <=>    _    | <--- the underscore is actually a SINGLE 
+|_____________________|      white space or a new line
+
+
+The idea behind this language is that a person is customizing their language uniquely to themselves, but the way they customize the language is instantly 
+translatable to all other peoples translation of their own language.
