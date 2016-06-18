@@ -1,18 +1,16 @@
 # SNETS
-## Programming Language Evolved
-Snowflake!=Snowflake (SNETS) 
-S!=S
+#### Programming Language Perfected Through Consistent Timedstamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming
 
 The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
  
-Long form:
+Long form : Snowflake!=Snowflake (SNETS) 
 <pre>
 Snowflake!=S						     nowflake!=S
 		  nowflake!=S		    nowflake!=S
 				   nowflake!=S
 </pre>
 
-Short form: 
+Short form : S!=S
 <pre>
        !=S         !=S   !=S                           !=S      
     !=S   !=S   !=S   !=S                           !=S   !=S   
@@ -28,7 +26,6 @@ S!=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S   !=S
     !=S   !=S   !=S   !=S                           !=S   !=S   
        !=S         !=S   !=S                           !=S      
 </pre>
-Programming Language Perfected Through Retrospective Evolution.
 
 Language Features:
 
@@ -94,28 +91,27 @@ i.e. :
 before vertical highlighting tools: 
 (sort of harsh 'c' like code just for demonstration purposes)
 
-int a = 3;
-float pie = 3.14; int index += 0;
-string hello = “world\n”; 
-
-after vertical highlighting tools:
-
 int		a		 =	3		;
 float	pie		 =	3.14		;
 int		index	+=	0		;
 string	hello	 =	“world\n”	;
 
 “SF!=S”
-With vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
+With out vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
 
-A !$
-a = A
+`NS <--- known symbols the language's basics starting point. (explained Later)
+
+!$
+5A/
+
+
+
+
+
 
 Rosetta Stone or Key translation between 'C' <=> 'SF!=S'
-
  _____________________
-|    C    <=>  SF!=S  |
-|_____________________|
+|____C____<=>__SF!=S__|
 |   int   <=>    !    |
 |  float  <=>    @    |
 | string  <=>    #    |
@@ -129,9 +125,25 @@ Rosetta Stone or Key translation between 'C' <=> 'SF!=S'
 |  3.14   <=>    ?    |
 |   0     <=>    >    |
 |“world\n”<=>    "    |
-|   ;     <=>    _    | <--- the underscore is actually a SINGLE 
-|_____________________|      white space or a new line
-
+|   ;     <=>    _    | <--- the underscore is actually a SINGLE white space or a new line
+|_____________________|
 
 The idea behind this language is that a person is customizing their language uniquely to themselves, but the way they customize the language is instantly 
 translatable to all other peoples translation of their own language.
+
+Another language feature is hovering over each symbol reveals the current language text the individual understands, and where the individual's language text does not have
+a word for it, then lateral words are chosen to help describe the meaning, but it's NOTED IN OBVIOUS PRESENTATION that this is only a vague description, and that the 
+individual's spoken language has reach it's limit's of describablity.
+
+We will need a random unique symbol generator which will be able to automatically be created by attributing two other symbols together potentially using a modified version of
+a genetic algorithm, which also has the insurance of never repeating a scenario... 
+There is a universal dictionary which gets checked globally on the decentralized torrent/cloud language to add in finding out if an overlaps in code has been typed, and if so 
+then the language downloads that code and shows the user what has already been done with that particular line of code as well as other dependencies both parental and child or lateral
+dependencies a like.
+
+We will need a new keyboard that has LCD displayed images for keys so that our programming language symbols can start to auto-remap against the keyboard's layout assisting in
+bringing most recent or relevant symbols that are needed next closer to the center of the keyboard where they figures are used the most... in fact the “DataHand Keyboard” is
+what is needed to reduce the geometric distance between key presses as well as reduce the amount of ware and tare on a human's hands. “DataHands” all will be 100% customization
+
+Raster Fonts and Fonts Tools in General will be used to create the "dimensional ontological segregation uniquifiers", and 3D boxes and transparent coloring and shading effects etc
+will all be apart of assisting in developing the language's differentiating paradigms/isomorphic overlaps etc...
