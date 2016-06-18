@@ -84,9 +84,8 @@ The language will have a list of tests cases actively re-evaluating after every 
 In “SF!=S” DO NOT FORCE OLD PRACTICE WHICH DO NOT MAKE SENSE “old wine skins will burst from new wine while trying to be poured into them... and if you poor old wine into new wine skin you are wasting the new wine skin … POOR AND REAP THE NEW INTO AND OUT OF THE NEW!
 
 When new tools are created which enhance programming productivity then the structure of the “SF!=S” language will be re-evaluated and reformed to add in enhancing less friction for the new tools... A good example is going from no vertical highlighting tool, to having a vertical highlighting tool, in which case the organization of repetitive statements makes more sense to be in consistent spaced form:
-
+<pre>
 i.e. :
-
 before vertical highlighting tools: 
 (sort of harsh 'c' like code just for demonstration purposes)
 
@@ -126,7 +125,7 @@ Rosetta Stone or Key translation between 'C' <=> 'SF!=S'
 |“world\n”<=>    "    |
 |   ;     <=>    _    | <--- the underscore is actually a SINGLE white space or a new line
 |_____________________|
-
+</pre>
 The idea behind this language is that a person is customizing their language uniquely to themselves, but the way they customize the language is instantly 
 translatable to all other peoples translation of their own language.
 
