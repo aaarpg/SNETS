@@ -1,2 +1,2 @@
 # SFNETS
-Snow Flake Not Equal To SFNETS (SFNETS) 
+Snow Flake != S (SFNETS) 
