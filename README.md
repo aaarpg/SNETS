@@ -1,10 +1,10 @@
-# SNETS
-###### Programming Language Perfected Through Consistent Timedstamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming
+# Snowflake!=S (SNETS)
+###### Programming Language Perfected Through Consistent Timed-stamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming
 <hr>
-##Language Features
+## Language Features
 The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
  
-Long form : Snowflake!=Snowflake (SNETS) 
+Long form : Snowflake!=S (SNETS) 
 <pre>
 Snowflake!=S						     nowflake!=S
 		  nowflake!=S		    nowflake!=S
