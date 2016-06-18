@@ -6,9 +6,11 @@ S!=S
 The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
  
 Long form:
+<pre>
 Snowflake!=S						     nowflake!=S
 		  nowflake!=S		    nowflake!=S
 				   nowflake!=S
+</pre>
 
 Short form: 
 <pre>
