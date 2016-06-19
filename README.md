@@ -83,50 +83,7 @@ The language will have a list of tests cases actively re-evaluating after every 
 
 In “SF!=S” DO NOT FORCE OLD PRACTICE WHICH DO NOT MAKE SENSE “old wine skins will burst from new wine while trying to be poured into them... and if you poor old wine into new wine skin you are wasting the new wine skin … POOR AND REAP THE NEW INTO AND OUT OF THE NEW!
 
-When new tools are created which enhance programming productivity then the structure of the “SF!=S” language will be re-evaluated and reformed to add in enhancing less friction for the new tools... A good example is going from no vertical highlighting tool, to having a vertical highlighting tool, in which case the organization of repetitive statements makes more sense to be in consistent spaced form:
-<pre>
-i.e. :
-before vertical highlighting tools: 
-(sort of harsh 'c' like code just for demonstration purposes)
-
-int		a		 =	3		;
-float	pie		 =	3.14		;
-int		index	+=	0		;
-string	hello	 =	“world\n”	;
-
-“SF!=S”
-With out vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
-
-`NS <--- known symbols the language's basics starting point. (explained Later)
-
-!$
-5A/
-
-
-
-
-
-
-Rosetta Stone or Key translation between 'C' <=> 'SF!=S'
- _____________________
-|____C____<=>__SF!=S__|
-|   int   <=>    !    |
-|  float  <=>    @    |
-| string  <=>    #    |
-|   a     <=>    $    |
-|  pie    <=>    %    |
-| index   <=>    ^    |
-| hello   <=>    &    |
-|   =     <=>    =    |
-|  +=     <=>    +    |
-|   3     <=>    /    |
-|  3.14   <=>    ?    |
-|   0     <=>    >    |
-|“world\n”<=>    "    |
-|   ;     <=>    _    | <--- the underscore is actually a SINGLE white space or a new line
-|_____________________|
-</pre>
-The idea behind this language is that a person is customizing their language uniquely to themselves, but the way they customize the language is instantly 
+One possible idea behind this language is that a person is customizing their language uniquely to themselves, but the way they customize the language is instantly 
 translatable to all other peoples translation of their own language.
 
 Another language feature is hovering over each symbol reveals the current language text the individual understands, and where the individual's language text does not have
@@ -145,3 +102,163 @@ what is needed to reduce the geometric distance between key presses as well as r
 
 Raster Fonts and Fonts Tools in General will be used to create the "dimensional ontological segregation uniquifiers", and 3D boxes and transparent coloring and shading effects etc
 will all be apart of assisting in developing the language's differentiating paradigms/isomorphic overlaps etc...
+
+When new tools are created which enhance programming productivity then the structure of the “SF!=S” language will be re-evaluated and reformed to add in enhancing less friction for the new tools... A good example is going from no vertical highlighting tool, to having a vertical highlighting tool, in which case the organization of repetitive statements makes more sense to be in consistent spaced form:
+<pre>
+int		a		 =	3			;
+float	pie		 =	3.14		;
+int		index	+=	0			;
+string	hello	 =	“world\n”	;
+
+“S!=S”
+With out vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
+
+"comments are within quotes"
+"^the above line is the first line in the S!=S"
+`KS <--- known snowflakes the language's basics starting point.
+
+"Potential ways S!=S could be translated from the C code above"
+"Vertical Separations"
+!$ A   
+A/ 5
+@% B
+B? 7
+!^ C
+C+ D
+D> E 
+#& F
+F* G
+
+"Horizontal Separations"
+!$ A A/ 5 @% B B? 7 !^ C C+ D D> E #& F F* G
+
+"The above two forms show a few dilemmas one being redundancy and two readability, as far as we know currently"
+"Lets solve one dilemma at a time. First dilemma stated was redundancy, how can we get rid of redundancy?"
+"Here are the above two programs with a reduction in redundancy"
+
+"Vertical Separations"
+!$ A
+/ 5 
+@% B
+? 7 
+!^ C
++ D
+> E 
+#& F
+* G
+
+"Horizontal Separations"
+!$ A/ 5 @% B? 7 !^ C+ D> E #& F* G
+
+"Note there is still one redundancy not taken care of, which is the ! 'snowflakes' being used twice, we've discovered another dilemma, which we'll attend to after our first two dilemma's have been resolved"
+"The second dilemma we initially found was readability. All 4 of the above programs could be said to be a bit illegible, due to the monotonic pure form idealization of using only"
+"consistent vertical form xor horizontal form."
+
+"Here is a potential solution to our readability dilemma"
+!$ A
+   / 5
+@% B
+   ? 7
+!^ C
+   + D
+     > E
+#& F
+   * G
+   
+"now the code has some mixed structural combinations of the horizontal and vertical reduced forms"
+"We now can see the edge of each full statement and its newly associated auto-generated unique snowflake"
+"we'll allow for the language to have flexibility between how the code layout is accepted, by tweaking the language's configuration settings 'file'"
+
+"The 3rd dilemma we found after the initial first go at reducing the redundancies we now can take a further look into"
+
+"One option to eliminate this redundancy would to just put the ^ next to the $ sign as follow:"
+!$^ A
+   / 5
+@% B
+   ? 7
+   
+   + D
+     > E
+#& F
+   * G
+"but now that we have removed the redundant line by 'listing' it with the same symbol we have caused two more dilemma. One dilemma is how do we know what to assign '^' to in coherence"
+"to our every statement is unique rule? Currently we still only have 'A' as being assigned to the 3 signs '!$^' this will need some work. another dilemma is now that we have removed"
+"the !^ C 'statement' or 'line' there are cascading future assignments which no longer have a place to associate against"
+
+"Lets tackle the first dilemma with !$^"
+"First lets say what we mean to say in a familiar language's syntax structure:"
+"in C we would be saying something a kin to int a = 3, index += 0;"
+"so rewriting our S!=S code, based on this C form and using our Rosetta Stone 1 to 1 Key translator forms the following"
+!$ A
+   / 5
+     ^+ D
+	    > E
+		
+"Now it looks like we will need to create a rule for the cascading scenario which takes shape similar to the junction between[BEGINNING LINE STARTS HERE]s[3]/s[1]5[\r\n]s[5]^+s[1]D"
+"[BEGINNING LINE STARTS HERE] signifies we know after the ] bracket is the beginning of a line.
+"s[3] meaning 3 spaces," 
+"s[1] meaning 1 space,"
+"[\r\n] meaning return then newline,"
+"s[5] meaning 5 spaces."
+
+"Taking a deeper look at the junction point"
+   / 5
+     ^+ D
+	    > E
+"what we find is a scenario which creates the generalized pattern of s[k]sign[1]s[1]sign[1][\r\n]s[k+2]sign[2]s[1]sign[1][\r\n]s[k+5]sign[1]s[1]sign[1]"
+"s[k] means k spaces"
+"s[k+2] means k+2 spaces"
+"s[k+5] means k+5 spaces"
+"k is used instead of a number because the tree breath will vary in length, and we need a reference of how far k+2 spaces is given a known distance from the starting line to the"
+"first sign[1] at a junction in the form of the generalized pattern above."
+
+
+"Given this form as the state in which a situation where two variables are being initialized concurrently to reduce redundancy of use of the sign ! we simply say when we see this"
+"generalized pattern it means exactly sign[2]s[1]sign[1][\r\n]s[k] back is being used for our datatype signature to be uniquely copied... thus originally we had entered"
+
+!$ A
+   / 5
+@% B
+   ? 7
+!^ C
+   + D
+     > E
+#& F
+   * G
+   
+""
+
+
+"This is a potential way to space the code for better readability Plus using dynamic closures which show the state of the code with dummy values"
+"Dummy values will be auto generated in a closure file. The generation of the snowflakes will be pulled from analysis of what may appropriately fit the datatype"
+"an idea would show a window section which displays the closure snowflakes to values configurations generated via the context of the entire language"
+!$ A
+   / 5
+@% B
+   ? 7
+!^ C
+   + D
+     > E
+#& F
+   * G
+
+Rosetta Stone or Key translation between 'C' <=> 'S!=S'
+ _____________________
+|____C____<=>__SF!=S__|
+|   int   <=>    !    |
+|  float  <=>    @    |
+| string  <=>    #    |
+|   a     <=>    $    |
+|  pie    <=>    %    |
+| index   <=>    ^    |
+| hello   <=>    &    |
+|   =     <=>         | <---the equal's operator is implicit between two contiguous snowflakes and a space followed by another symbol note the user only ever enters two snowflakes, a unique symbol is generated automatically after two snowflakes have been typed next to each other
+|  +=     <=>    +    |
+|   3     <=>    /    |
+|  3.14   <=>    ?    |
+|   0     <=>    >    |
+|“world\n”<=>    *    |
+|   ;     <=>    _    | <--- the underscore is actually a SINGLE white space or a RETURN NEWLINE
+|_____________________|
+
+</pre>
