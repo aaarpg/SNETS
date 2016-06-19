@@ -104,15 +104,18 @@ Raster Fonts and Fonts Tools in General will be used to create the "dimensional 
 will all be apart of assisting in developing the language's differentiating paradigms/isomorphic overlaps etc...
 
 When new tools are created which enhance programming productivity then the structure of the “SF!=S” language will be re-evaluated and reformed to add in enhancing less friction for the new tools... A good example is going from no vertical highlighting tool, to having a vertical highlighting tool, in which case the organization of repetitive statements makes more sense to be in consistent spaced form:
+
 <pre>
 int		a		 =	3			;
 float	pie		 =	3.14		;
 int		index	+=	0			;
 string	hello	 =	“world\n”	;
-
+</pre>
+<pre-wrap>
 “S!=S”
 With out vertical highlighting example (NOT A DEFINITIVE SPEC!!!! PER SE)
-
+</pre-wrap>
+<pre>
 "comments are within quotes"
 "^the above line is the first line in the S!=S"
 `KS <--- known snowflakes the language's basics starting point.
@@ -131,11 +134,13 @@ F* G
 
 "Horizontal Separations"
 !$ A A/ 5 @% B B? 7 !^ C C+ D D> E #& F F* G
-
+</pre>
+<pre-wrap>
 "The above two forms show a few dilemmas one being redundancy and two readability, as far as we know currently"
 "Lets solve one dilemma at a time. First dilemma stated was redundancy, how can we get rid of redundancy?"
 "Here are the above two programs with a reduction in redundancy"
-
+</pre-wrap>
+<pre>
 "Vertical Separations"
 !$ A
 / 5 
@@ -149,10 +154,13 @@ F* G
 
 "Horizontal Separations"
 !$ A/ 5 @% B? 7 !^ C+ D> E #& F* G
-
+</pre>
+<pre-wrap>
 "Note there is still one redundancy not taken care of, which is the ! 'snowflakes' being used twice, we've discovered another dilemma, which we'll attend to after our first two dilemma's have been resolved"
 "The second dilemma we initially found was readability. All 4 of the above programs could be said to be a bit illegible, due to the monotonic pure form idealization of using only"
 "consistent vertical form xor horizontal form."
+</pre-wrap>
+<pre>
 
 "Here is a potential solution to our readability dilemma"
 !$ A
@@ -164,13 +172,15 @@ F* G
      > E
 #& F
    * G
-   
+</pre>
+<pre-wrap>
 "now the code has some mixed structural combinations of the horizontal and vertical reduced forms"
 "We now can see the edge of each full statement and its newly associated auto-generated unique snowflake"
 "we'll allow for the language to have flexibility between how the code layout is accepted, by tweaking the language's configuration settings 'file'"
 
 "The 3rd dilemma we found after the initial first go at reducing the redundancies we now can take a further look into"
-
+</pre-wrap>
+<pre>
 "One option to eliminate this redundancy would to just put the ^ next to the $ sign as follow:"
 !$^ A
    / 5
@@ -181,6 +191,8 @@ F* G
      > E
 #& F
    * G
+ </pre>
+ <pre-wrap>
 "but now that we have removed the redundant line by 'listing' it with the same symbol we have caused two more dilemma. One dilemma is how do we know what to assign '^' to in coherence"
 "to our every statement is unique rule? Currently we still only have 'A' as being assigned to the 3 signs '!$^' this will need some work. another dilemma is now that we have removed"
 "the !^ C 'statement' or 'line' there are cascading future assignments which no longer have a place to associate against"
@@ -188,13 +200,18 @@ F* G
 "Lets tackle the first dilemma with !$^"
 "First lets say what we mean to say in a familiar language's syntax structure:"
 "in C we would be saying something a kin to int a = 3, index += 0;"
-"so rewriting our S!=S code, based on this C form and using our Rosetta Stone 1 to 1 Key translator forms the following"
+</pre-wrap>
+<pre>
+"so rewriting our S!=S code, based on this C form and using our"
+"Rosetta Stone 1 to 1 Key translator forms the following"
 !$ A
    / 5
      ^+ D
 	    > E
 		
-"Now it looks like we will need to create a rule for the cascading scenario which takes shape similar to the junction between[BEGINNING LINE STARTS HERE]s[3]/s[1]5[\r\n]s[5]^+s[1]D"
+"Now it looks like we will need to create a rule for the cascading"
+"scenario which takes shape similar to the junction between"
+"[BEGINNING LINE STARTS HERE]s[3]/s[1]5[\r\n]s[5]^+s[1]D"
 "[BEGINNING LINE STARTS HERE] signifies we know after the ] bracket is the beginning of a line.
 "s[3] meaning 3 spaces," 
 "s[1] meaning 1 space,"
@@ -209,12 +226,17 @@ F* G
 "s[k] means k spaces"
 "s[k+2] means k+2 spaces"
 "s[k+5] means k+5 spaces"
-"k is used instead of a number because the tree breath will vary in length, and we need a reference of how far k+2 spaces is given a known distance from the starting line to the"
-"first sign[1] at a junction in the form of the generalized pattern above."
+"k is used instead of a number because the tree breath will vary in length,"
+"and we need a reference of how far k+2 spaces is given a known distance from"
+"the starting line to the first sign[1] at a junction in the form of the 
+"generalized pattern above."
 
 
-"Given this form as the state in which a situation where two variables are being initialized concurrently to reduce redundancy of use of the sign ! we simply say when we see this"
-"generalized pattern it means exactly sign[2]s[1]sign[1][\r\n]s[k] back is being used for our datatype signature to be uniquely copied... thus originally we had entered"
+"Given this form as the state in which a situation where two variables are"
+"being initialized concurrently to reduce redundancy of use of the sign ! we"
+"simply say when we see this generalized pattern it means exactly"
+"sign[2]s[1]sign[1][\r\n]s[k] back is being used for our datatype signature"
+"to be uniquely copied... thus originally we had entered"
 
 !$ A
    / 5
@@ -225,13 +247,13 @@ F* G
      > E
 #& F
    * G
-   
-""
-
-
+</pre>
+<pre-wrap>
 "This is a potential way to space the code for better readability Plus using dynamic closures which show the state of the code with dummy values"
 "Dummy values will be auto generated in a closure file. The generation of the snowflakes will be pulled from analysis of what may appropriately fit the datatype"
 "an idea would show a window section which displays the closure snowflakes to values configurations generated via the context of the entire language"
+</pre-wrap>
+<pre>
 !$ A
    / 5
 @% B
@@ -252,13 +274,16 @@ Rosetta Stone or Key translation between 'C' <=> 'S!=S'
 |  pie    <=>    %    |
 | index   <=>    ^    |
 | hello   <=>    &    |
-|   =     <=>         | <---the equal's operator is implicit between two contiguous snowflakes and a space followed by another symbol note the user only ever enters two snowflakes, a unique symbol is generated automatically after two snowflakes have been typed next to each other
+|   =     <=>         | <---++
 |  +=     <=>    +    |
 |   3     <=>    /    |
 |  3.14   <=>    ?    |
 |   0     <=>    >    |
 |“world\n”<=>    *    |
-|   ;     <=>    _    | <--- the underscore is actually a SINGLE white space or a RETURN NEWLINE
+|   ;     <=>    _    | <---&&
 |_____________________|
-
 </pre>
+<pre-word>
+++ the equal's operator is implicit between two contiguous snowflakes and a space followed by another symbol note the user only ever enters two snowflakes, a unique symbol is generated automatically after two snowflakes have been typed next to each other
+&&  the underscore is actually a SINGLE white space or a RETURN NEWLINE
+</pre-word>
