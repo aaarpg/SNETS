@@ -222,7 +222,8 @@ F* G
    / 5
      ^+ D
 	    > E
-"what we find is a scenario which creates the generalized pattern of s[k]sign[1]s[1]sign[1][\r\n]s[k+2]sign[2]s[1]sign[1][\r\n]s[k+5]sign[1]s[1]sign[1]"
+"what we find is a scenario which creates the generalized pattern of"
+"s[k]sign[1]s[1]sign[1][\r\n]s[k+2]sign[2]s[1]sign[1][\r\n]s[k+5]sign[1]s[1]sign[1]"
 "s[k] means k spaces"
 "s[k+2] means k+2 spaces"
 "s[k+5] means k+5 spaces"
