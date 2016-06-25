@@ -1,6 +1,6 @@
 # Snowflake!=S (SNETS)
 ###### Programming Language Perfected Through Consistent Timed-stamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming. Mediator of all languages. The final corner Rosetta stone clearly known oracle through explicit elucidation juxtaposing contrast with implicit implications.
-&#09;&#09;_"When the nature of the world is revealed, then the mystery of the sphinx will no longer exist"_ [ [1](http://esotericastrologer.org/newsletters/leo-virgo-the-mystery-of-the-sphinx/) ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"When the nature of the world is revealed, then the mystery of the sphinx will no longer exist"_ [ [1](http://esotericastrologer.org/newsletters/leo-virgo-the-mystery-of-the-sphinx/) ]
 <hr>
 ## Language Features
 The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
