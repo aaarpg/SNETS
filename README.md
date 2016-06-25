@@ -1,5 +1,5 @@
 # Snowflake!=S (SNETS)
-###### Programming Language Perfected Through Consistent Timed-stamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming
+###### Programming Language Perfected Through Consistent Timed-stamped Perpetually Additive Retrospective Evolutionary Functional Reactive Programming. Mediator of all languages. The final corner Rosetta stone clearly known oracle through explicity elucidation juxtaposing contrast with implicit implications.
 <hr>
 ## Language Features
 The first thing that will evolve in the language is the way the name of the language is 'symbolized.' The name will be a single symbol and after its symbol name has been realized the language may be Formerly Known as :
